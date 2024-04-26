@@ -1,0 +1,5 @@
+node_modules
+.env
+audio/*.wav
+images/*.jpg
+video/*.mp4
