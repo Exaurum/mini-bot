@@ -29,6 +29,6 @@ The bot automatically manages user sessions, saving information about the curren
 
 ## About the Author
 
-The project is created for personal practice and learning purposes. It can be used as a portfolio to showcase programming skills when seeking employment or for knowledge exchange with other developers.
+The project is created for personal practice and learning purposes. 
 
 
