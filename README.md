@@ -26,12 +26,6 @@ User responses are stored in a MySQL database along with information about the r
 ## Session Management:
 The bot automatically manages user sessions, saving information about the current dialogue state and continuing to ask the next questions until the user completes the survey or interrupts the session independently.
 
-## Technical Implementation:
-
-## Programming Language: JavaScript
-Used Libraries: Telegraf (library for working with Telegram Bot API), MySQL (for database operations)
-Version Control System: Git
-Integration with Telegram: The bot uses the Telegram Bot API to interact with users, send messages, and receive updates.
 
 ## About the Author
 
