@@ -37,8 +37,4 @@ Integration with Telegram: The bot uses the Telegram Bot API to interact with us
 
 The project is created for personal practice and learning purposes. It can be used as a portfolio to showcase programming skills when seeking employment or for knowledge exchange with other developers.
 
-## Contact
 
-If you have any questions or suggestions, feel free to contact me:
-
-- Telegram: [Contact](https://t.me/NavigatorExa)
